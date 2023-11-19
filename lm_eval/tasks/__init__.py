@@ -347,7 +347,7 @@ TASK_REGISTRY = {
     **mgsm.construct_tasks(),
     **scrolls.construct_tasks(),
     **ceval.create_all_tasks(),
-    **cmmlu.create_all_tasks(),
+    **cmmlu.create_all_tasks()
 }
 
 
